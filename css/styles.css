@@ -2,6 +2,7 @@ html,body {
   height:100%;
   background-color:#ecf0f1;
 }
+.twitter-share-button { width: 80px !important; }
 
 h1 {
   font-family: Arial,sans-serif
@@ -11,13 +12,14 @@ h1 {
 
 .lead {
 	color:#474747;
+	font-size:5vmin;
 }
 #bottombar {
 	padding:0;
 	position:absolute;
-	width:40%;
+	width:60%;
 	text-align:center;
-	left:30%;
+	left:20%;
 	bottom:10px;
 	z-index:400000;
 }
