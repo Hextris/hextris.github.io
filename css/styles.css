@@ -12,6 +12,15 @@ h1 {
 .lead {
 	color:#474747;
 }
+#bottombar {
+	padding:0;
+	position:absolute;
+	width:40%;
+	text-align:center;
+	left:30%;
+	bottom:10px;
+	z-index:400000;
+}
 
 
 /* Custom container */
