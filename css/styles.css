@@ -1,47 +1,51 @@
 html,body {
-  height:100%;
-  background-color:#ecf0f1;
+	height:100%;
+	background-color:#ecf0f1;
+	font-family: Helvetica;
 }
 .twitter-share-button { width: 80px !important; }
 
 h1 {
-  font-family: Arial,sans-serif
-  font-size:80px;
-  color:#474747;
+	font-family: Arial,sans-serif
+	font-size:80px;
+	color:#474747;
+	font-weight: 400;
 }
 
 .lead {
 	color:#474747;
-	font-size:5vmin;
+	font-size:22px;
+
 }
 #bottombar {
 	padding:0;
 	position:absolute;
 	width:60%;
 	text-align:center;
+	bottom:10px;
 	left:20%;
 	bottom:10px;
 	z-index:400000;
 }
 
-
 /* Custom container */
 .container-full {
-  margin: 0 auto;
-  width: 100%;
-  min-height:100%;
-  background:url(../background.png) center center no-repeat;
-  overflow:hidden;
-}
-#TitleBar {
-	background-color:rgba(255,255,255,0.5);
-}
-.container-full a {
-  color:#000;
-  text-decoration:none;
+	width: 100%;
+	min-height:100%;
+	background:url(../background.png) center center no-repeat;
+	overflow:hidden;
 }
 
-.v-center {
-  margin-top:7%;
+
+#TitleBar {
+	text-align: center;
+	background-color:rgba(252,252,252,0.5);
 }
-  
+.container-full a {
+	color:#000;
+	text-decoration:none;
+}
+	
+a:hover {
+	text-decoration: underline ! important;
+}
