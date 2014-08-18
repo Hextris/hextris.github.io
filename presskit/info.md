@@ -58,7 +58,7 @@ The different logo files are in the `logos` folder, and include the following:
 - **Completely free and open source under a GPL license**
 - **For iOS, Android, and Web**
 - Utilizes a Flat UI design
-- The game was initially created by 4 high school kids (ages 15 years old - 17 years old) at a hackathon
+- The game was initially created by 4 high school kids from Boston, MA (ages 15 years old - 17 years old) at a hackathon
 - The game was finished (gameplay mechanics refined, game polished, UI redone, marketed, etc) by Logan Engstrom (@meadowstream on GitHub, @logan_engstrom on Twitter) and Garrett Finuncane (@garrettdreyfus on GitHub) over 3 months
 - Inspired by the following games:
 	- Tetris
