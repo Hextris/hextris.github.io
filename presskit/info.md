@@ -2,7 +2,7 @@ Hextris Press Kit
 ========
 ### Download entire press kit
 
-#####Go to [http://hextris.github.io/presskit.zip]()
+#####Go to [Press Kit](http://hextris.github.io/presskit.zip)
 
 ### Description
 
@@ -12,11 +12,11 @@ HEXTRIS is a fast paced puzzle game inspired by Tetris. Blocks start on the edge
 
 ### Important links:
 
-- Homepage: [http://hextris.github.io/]()
-- Play online: [http://hextris.github.io/hextris/]()
-- **iOS store: [https://itunes.apple.com/us/app/id903769553?mt=8]()**
-- **Android store: [https://play.google.com/store/apps/details?id=com.hextris.hexts]()**
-- GitHub source code: [http://github.com/hextris/hextris/]()
+- [Homepage](http://hextris.github.io/)
+- [Play Online](http://hextris.github.io/hextris/)
+- **[iOS Store](https://itunes.apple.com/us/app/id903769553?mt=8)**
+- **[Android Store](https://play.google.com/store/apps/details?id=com.hextris.hexts)**
+- [Source Code](http://github.com/hextris/hextris/) - GitHub
 
 ### Contact
 
@@ -44,7 +44,7 @@ The different logo files are in the `logos` folder, and include the following:
 
 ### Gameplay 
 
-- On YouTube: [https://www.youtube.com/watch?v=KyOkwXcEZgI]()
+- [On YouTube](https://www.youtube.com/watch?v=KyOkwXcEZgI)
 
 ### Significant coverage
 
@@ -59,11 +59,13 @@ The different logo files are in the `logos` folder, and include the following:
 - **For iOS, Android, and Web**
 - Utilizes a Flat UI design
 - The game was initially created by 4 high school kids from Boston, MA (ages 15 years old - 17 years old) at a hackathon
-- The game was finished (gameplay mechanics refined, game polished, UI redone, marketed, etc) by Logan Engstrom (@meadowstream on GitHub, @logan_engstrom on Twitter) and Garrett Finuncane (@garrettdreyfus on GitHub) over 3 months
+- The game was finished (gameplay mechanics refined, game polished, UI redone, marketed, etc) by Logan Engstrom (GitHub: [@meadowstream](https://github.com/meadowstream), Twitter: [@logan_engstrom](https://twitter.com/logan_engstrom)) and Garrett Finuncane (GitHub: [@garrettdreyfus](https://github.com/garrettdreyfus)) over 3 months.
 - Inspired by the following games:
 	- Tetris
 	- Rezoner's QbQbQb
-- Facebook page: [https://www.facebook.com/hextris]()
-- Twitter: [https://twitter.com/hextris]() - #hextris
-- Reviews - the best place to look for reviews is on Twitter at [https://twitter.com/search?f=realtime&q=hextris]()
+- [Facebook page](https://www.facebook.com/hextris)
+- [Twitter](https://twitter.com/hextris) - Check out [#hextris](https://twitter.com/hashtag/hextris)
+- Reviews
+
+    - the best place to look for reviews is on [Twitter](https://twitter.com/hashtag/hextris)
 	- We have yet to be covered by any major English language review companies
