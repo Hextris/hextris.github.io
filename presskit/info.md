@@ -2,7 +2,7 @@ Hextris Press Kit
 ========
 ### Download entire press kit
 
-#####Go to [http://hextris.github.io/presskit.zip]()
+#####Go to [http://hextris.github.io/presskit.zip](http://hextris.github.io/presskit.zip)
 
 ### Description
 
